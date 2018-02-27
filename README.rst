@@ -1,3 +1,10 @@
+2018-02-28: Update for mopidy > v1.0 
+======================
+
+As inspired by `Mopidy-TuneIn <https://github.com/kingosticks/mopidy-tunein>`_ , issued fix for mopidy >v1.0. 
+
+Original repo `nilicule/mopidy-audioaddict <https://github.com/nilicule/mopidy-audioaddict>`_ seeems abandoned  
+
 Installation
 ============
 
